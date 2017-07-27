@@ -174,7 +174,7 @@ bool is_rotated2(std::string s1, std::string s2) {
  * *_Conclusion_*
  */
 /**
- * From our initial O(n2)
+ * From our initial O(n^2)
  * algorithm we’ve now got a
  * possible O(n) solution that
  * is much simpler! In this way,
